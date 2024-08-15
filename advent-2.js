@@ -5,10 +5,6 @@
  * Given a year and an array with the dates of the holidays, return the number of extra hours that would be done during that year:
 */
 
-const year = 1985
-
-const holidays = ['01/01', '01/06', '02/02', '02/17', '02/28', '06/03', '12/06', '12/25']
-
 function countHours (year = 2022, holidays = []) {
   let totalHours = 0
   for (const holiday of holidays) {
