@@ -31,6 +31,6 @@ Proyecto desarrollado por [@Midudev](https://github.com/midudev/)
 | 21 | ✅ |
 | 22 | ✅ |
 | 23 | ✅ |
-| 24 | ❌ |
+| 24 | ✅ |
 
 </div>
