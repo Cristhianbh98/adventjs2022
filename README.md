@@ -30,7 +30,7 @@ Proyecto desarrollado por [@Midudev](https://github.com/midudev/)
 | 20 | ✅ |
 | 21 | ✅ |
 | 22 | ✅ |
-| 23 | ❌ |
+| 23 | ✅ |
 | 24 | ❌ |
 
 </div>
